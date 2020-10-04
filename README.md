@@ -1,2 +1,2 @@
 # SampleCodes 
-This is are some geeks codes by using python
+These are easy and trick python programs which i have coded in my inital days of learning python 
