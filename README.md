@@ -11,8 +11,15 @@ the number range from 0 to 29. The guess the number is print at last in for the 
 
 FullPassword :
 using the aplha-numerica as shown in the various social media website
-I have import regex module and restrict some characterics which are not use in the setting required password
-Not only i have also restrict the user to type the correct password in three times of that the program will end 
+I have import regex module and restrict some characterics which are not use in the setting required password and not only i have also restrict the user to type the correct password in three times after that the program will end 
 
 Password using while loop:
-The program does not contains any module but the program is used to make user to enter  
+The program does not contains any module but the program is used to make user to enter the password not only in this while and if and else loop to restrict the user to the type correct password in the three times after that the program will end 
+
+Password using if and else loop:
+The program if and else loop the password and inputed password. if password = inputed password or else it break the loop
+
+Enter the random password:
+The program is used string and random module. we have upper_case, lower_case and digits and size = 6. not only that return "". char and for loop to make it password size of 6 print upto the 10 different password.
+
+
